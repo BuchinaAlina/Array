@@ -8,7 +8,7 @@ class Program
 {
     static void Main()
     {
-        int[] array = GenerateRandomArray(10, 1, 100);
+        int[] array = GenerateRandomArray(10, 1...);
         int count = CountEvenNumbers(array);
 
         Console.WriteLine("Сгенерированный массив: [" + string.Join(" ", array) + "]");

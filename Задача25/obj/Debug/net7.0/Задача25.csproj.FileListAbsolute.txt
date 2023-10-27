@@ -1,0 +1,14 @@
+C:\Users\пользователь\Desktop\array\Array\Задача25\bin\Debug\net7.0\Задача25.exe
+C:\Users\пользователь\Desktop\array\Array\Задача25\bin\Debug\net7.0\Задача25.deps.json
+C:\Users\пользователь\Desktop\array\Array\Задача25\bin\Debug\net7.0\Задача25.runtimeconfig.json
+C:\Users\пользователь\Desktop\array\Array\Задача25\bin\Debug\net7.0\Задача25.dll
+C:\Users\пользователь\Desktop\array\Array\Задача25\bin\Debug\net7.0\Задача25.pdb
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.dll
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\refint\Задача25.dll
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.pdb
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\Задача25.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\array\Array\Задача25\obj\Debug\net7.0\ref\Задача25.dll
